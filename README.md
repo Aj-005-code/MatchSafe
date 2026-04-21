@@ -87,6 +87,11 @@ MatchSafe/
 └── README.md
 ```
 
+## 🎥 Demo
+
+[![MatchSafe Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/X1Cu9AUvC34)
+
+> Click the thumbnail above to watch the demo
 ---
 
 ## How the AI Matching Works
