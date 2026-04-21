@@ -296,9 +296,9 @@ MIT — see [LICENSE](LICENSE)
 
 ## Author
 
-**Ajay**
-Student, Vellore Institute of Technology
+**Ajay A**
+CS Student, Vellore Institute of Technology (VIT) - chennai 
 
 ---
 
-*Built as an academic competition project demonstrating privacy-preserving AI architecture with on-device transformer inference.*
+*Built as an academic project demonstrating privacy-preserving AI architecture with on-device transformer inference.*
