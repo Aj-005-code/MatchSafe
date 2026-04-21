@@ -296,7 +296,7 @@ MIT — see [LICENSE](LICENSE)
 
 ## Author
 
-**Ajay A**
+**Ajay **
 CS Student, Vellore Institute of Technology (VIT) - chennai 
 
 ---
