@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in MatchSafe, please do **not** open a public GitHub issue.
 
-Instead, email the maintainer directly with:
+Instead, email the maintainer or contributors directly with:
 - A description of the vulnerability
 - Steps to reproduce
 - Potential impact
